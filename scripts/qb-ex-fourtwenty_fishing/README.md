@@ -1,6 +1,6 @@
 # FourTwenty Fishing System 🎣
 
-A comprehensive fishing system for FiveM ESX servers featuring dynamic pricing, leveling system, multiple fishing zones, and various types of fish and equipment.
+A comprehensive fishing system for FiveM ESX (Has been convert into QB-Core) servers featuring dynamic pricing, leveling system, multiple fishing zones, and various types of fish and equipment.
 
 ## Features 🐟
 
