@@ -1,17 +1,3 @@
-![06](https://github.com/Arius-Development/ars_ambulancejob/assets/70983185/5cbe1ee4-b75c-4134-87ee-99fb4c651bf8)
-
-Experience the intensity of emergency response in Arius Ambulance Job :ambulance:! Transport patients, deliver critical care, and immerse yourself in hyper-realistic roleplay and more. Ready to be the hero on the front lines?
-
-:arrows_counterclockwise: **Frameworks**
-
--   ESX
--   QBCORE
-
-:dart: **Dependencies**
-
--   ox_inventory
--   ox_target / qb-target
-
 :loudspeaker: **Features:**
 
 -   Create hospitals without any limitations.
