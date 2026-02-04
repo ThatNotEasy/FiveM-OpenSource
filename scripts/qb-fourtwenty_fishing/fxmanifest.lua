@@ -1,9 +1,3 @@
---[[ 
-    FourTwenty Development
-    discord.gg/fourtwenty
-    https://fourtwenty.dev
-]]
-
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'

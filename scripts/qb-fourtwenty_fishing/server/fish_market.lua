@@ -1,13 +1,3 @@
---[[
-    fish_market.lua
-    Part of FourTwenty Fishing System
-    https://fourtwenty.dev | https://github.com/FourTwentyDev
-    
-    Handles all server-side market functionality including price calculations
-    and selling mechanics
-    Version: 1.0.0
-]]
-
 ESX = exports['qb-core']:GetCoreObject()
 
 -- Local state variables

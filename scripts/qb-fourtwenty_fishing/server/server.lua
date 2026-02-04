@@ -1,13 +1,3 @@
---[[
-    server.lua
-    Part of FourTwenty Fishing System
-    https://fourtwenty.dev | https://github.com/FourTwentyDev
-    
-    Main server-side functionality including database management,
-    fishing mechanics, and player progression
-    Version: 1.0.0
-]]
-
 ESX = exports['qb-core']:GetCoreObject()
 
 -- Database initialization

@@ -1,5 +1,4 @@
 -- Configuration file for FourTwenty Fishing System
--- https://fourtwenty.dev | https://github.com/FourTwentyDev
 
 Config = {}
 -- Set the language for the system (en = English)

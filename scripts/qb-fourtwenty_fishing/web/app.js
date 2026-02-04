@@ -1,13 +1,3 @@
-/**
- * FourTwenty Fish Market UI
- * Part of FourTwenty Fishing System
- * https://fourtwenty.dev | https://github.com/FourTwentyDev
- * 
- * Handles the fish market user interface including translations,
- * price updates, and selling functionality
- * Version: 1.0.0
- */
-
 // State management
 let translations = {};
 let currentLocale = 'de';
