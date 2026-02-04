@@ -1,6 +1,7 @@
 # 3D SpeedoMeter
 
-3dspeedometer.png
+<img width="1098" height="494" alt="3dspeedometer" src="https://github.com/user-attachments/assets/a31d1a73-abbc-4a65-a959-dd328cb93986" />
+
 ## Convars
 | Name             | Description                                         | Type   | Example   |
 | ---------------- | --------------------------------------------------- | :----: | --------- |
