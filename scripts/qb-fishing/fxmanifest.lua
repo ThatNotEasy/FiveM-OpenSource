@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 name 'fourtwenty_fishing'
-description 'Fishing Script - Catch fish and earn rewards!'
+description 'Fishing Script - Catch fish and earn rewards!  - Recoded By Ap0dexMe0'
 author 'FourTwenty Development'
 version '1.0.0'
 

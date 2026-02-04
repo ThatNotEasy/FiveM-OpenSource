@@ -7,7 +7,7 @@ game 'gta5'
 --#--Resource Info--#--
 version '1.0.4'
 author 'Arius Scripts'
-description 'Advanced ambulance job with intergrated death system'
+description 'Advanced ambulance job with intergrated death system  - Recoded By Ap0dexMe0'
 
 
 --#--Shared Scripts--#--
