@@ -1,0 +1,3 @@
+[submodule "scripts/scripts/qb-3dspeedometer"]
+	path = scripts/scripts/qb-3dspeedometer
+	url = https://github.com/ThatNotEasy/FiveM-OpenSource
