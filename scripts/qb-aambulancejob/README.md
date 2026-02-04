@@ -1,27 +1,27 @@
-:loudspeaker: **Features:**
+# **Features:**
 
--   Create hospitals without any limitations.
--   Integrated death handling system.
--   Internal dispatch system for hospital service calls.
--   Realistic injury system.
--   Service garages for all your vehicle needs.
--   Convenient storage stashes for item management.
--   Private / Public shops.
--   Easy access to the Boss Menu.
--   Cloakrooms for changing into work clothes.
--   Usable stretchers for transporting injured players.
--   A variety of items for treating injuries.
--   NPC paramedics to heal players.
--   A handy medical bag to store emergency items.
--   Synchronized revive animation.
--   A quick /911 command for emergency calls.
--   Rewards for healing injuries.
--   Rewards for successful revivals.
--   A feature that allows player revival even in the absence of medics.
--   "revive [id]" command to revive specific players.
--   "revive [radius]" command to revive players within a defined area.
--   "heal [id]" command to heal specific players.
--   "heal [radius]" command to heal players within a designated area.
--   Respawn bed animation.
--   Saved deaths
--   Optimized idle (0.0 ms).
+- Create hospitals without any limitations.
+- Integrated death handling system.
+- Internal dispatch system for hospital service calls.
+- Realistic injury system.
+- Service garages for all your vehicle needs.
+- Convenient storage stashes for item management.
+- Private / Public shops.
+- Easy access to the Boss Menu.
+- Cloakrooms for changing into work clothes.
+- Usable stretchers for transporting injured players.
+- A variety of items for treating injuries.
+- NPC paramedics to heal players.
+- A handy medical bag to store emergency items.
+- Synchronized revive animation.
+- A quick /911 command for emergency calls.
+- Rewards for healing injuries.
+- Rewards for successful revivals.
+- A feature that allows player revival even in the absence of medics.
+- "revive [id]" command to revive specific players.
+- "revive [radius]" command to revive players within a defined area.
+- "heal [id]" command to heal specific players.
+- "heal [radius]" command to heal players within a designated area.
+- Respawn bed animation.
+- Saved deaths
+- Optimized idle (0.0 ms).
