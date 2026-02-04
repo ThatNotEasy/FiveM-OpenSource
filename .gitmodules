@@ -1,3 +1,11 @@
-[submodule "scripts/scripts/qb-3dspeedometer"]
-	path = scripts/scripts/qb-3dspeedometer
+[submodule "scripts/qb-3dspeedometer"]
+	path = scripts/qb-3dspeedometer
+	url = https://github.com/ThatNotEasy/FiveM-OpenSource
+
+[submodule "scripts/qb-fishing"]
+	path = scripts/qb-fishing
+	url = https://github.com/ThatNotEasy/FiveM-OpenSource
+
+[submodule "scripts/qb-aambulancejob"]
+	path = scripts/qb-aambulancejob
 	url = https://github.com/ThatNotEasy/FiveM-OpenSource
