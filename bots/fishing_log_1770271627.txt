@@ -1,0 +1,138 @@
+[14:06:46.690] Started monitoring - Smart fishing active
+[14:06:46.830] [POS] Fish Y: 474 | Box Y: 17 | Pred: 474 | Space: FREE
+[14:06:47.046] [POS] Fish Y: 474 | Box Y: 17 | Pred: 474 | Space: FREE
+[14:06:47.259] [POS] Fish Y: 474 | Box Y: 17 | Pred: 474 | Space: FREE
+[14:06:47.455] [POS] Fish Y: 453 | Box Y: 17 | Pred: 411 | Space: FREE
+[14:06:47.666] [POS] Fish Y: 582 | Box Y: 645 | Pred: 840 | Space: FREE
+[14:06:47.679] [14:06:47.679] SPACEBAR PRESSED - Moving UP
+[14:06:47.862] [POS] Fish Y: 588 | Box Y: 645 | Pred: 600 | Space: HELD
+[14:06:48.075] [POS] Fish Y: 595 | Box Y: 641 | Pred: 609 | Space: HELD
+[14:06:48.159] [14:06:48.159] SPACEBAR RELEASED - Falling
+[14:06:48.273] [14:06:48.273] SPACEBAR PRESSED - Moving UP
+[14:06:48.274] [POS] Fish Y: 601 | Box Y: 631 | Pred: 613 | Space: HELD
+[14:06:48.479] [POS] Fish Y: 474 | Box Y: 623 | Pred: 220 | Space: HELD
+[14:06:48.571] [14:06:48.570] SPACEBAR RELEASED - Falling
+[14:06:48.655] [14:06:48.655] SPACEBAR PRESSED - Moving UP
+[14:06:48.699] [POS] Fish Y: 453 | Box Y: 621 | Pred: 411 | Space: HELD
+[14:06:48.736] [14:06:48.736] SPACEBAR RELEASED - Falling
+[14:06:48.848] [14:06:48.847] SPACEBAR PRESSED - Moving UP
+[14:06:48.908] [POS] Fish Y: 409 | Box Y: 620 | Pred: 321 | Space: HELD
+[14:06:49.111] [POS] Fish Y: 474 | Box Y: 632 | Pred: 604 | Space: HELD
+[14:06:49.335] [POS] Fish Y: 616 | Box Y: 644 | Pred: 900 | Space: HELD
+[14:06:49.543] [POS] Fish Y: 611 | Box Y: 643 | Pred: 601 | Space: HELD
+[14:06:49.739] [POS] Fish Y: 606 | Box Y: 637 | Pred: 596 | Space: HELD
+[14:06:49.902] [14:06:49.902] SPACEBAR RELEASED - Falling
+[14:06:49.959] [POS] Fish Y: 606 | Box Y: 637 | Pred: 606 | Space: FREE
+[14:06:50.052] [14:06:50.052] SPACEBAR PRESSED - Moving UP
+[14:06:50.184] [POS] Fish Y: 602 | Box Y: 632 | Pred: 594 | Space: HELD
+[14:06:50.417] [POS] Fish Y: 595 | Box Y: 641 | Pred: 581 | Space: HELD
+[14:06:50.633] [POS] Fish Y: 588 | Box Y: 644 | Pred: 574 | Space: HELD
+[14:06:50.852] [POS] Fish Y: 582 | Box Y: 638 | Pred: 570 | Space: HELD
+[14:06:51.063] [POS] Fish Y: 576 | Box Y: 625 | Pred: 564 | Space: HELD
+[14:06:51.269] [POS] Fish Y: 570 | Box Y: 607 | Pred: 558 | Space: HELD
+[14:06:51.351] [14:06:51.351] SPACEBAR RELEASED - Falling
+[14:06:51.432] [14:06:51.432] SPACEBAR PRESSED - Moving UP
+[14:06:51.476] [POS] Fish Y: 564 | Box Y: 585 | Pred: 552 | Space: HELD
+[14:06:51.680] [POS] Fish Y: 474 | Box Y: 564 | Pred: 294 | Space: HELD
+[14:06:51.735] [14:06:51.735] SPACEBAR RELEASED - Falling
+[14:06:51.887] [POS] Fish Y: 409 | Box Y: 542 | Pred: 279 | Space: FREE
+[14:06:51.992] [14:06:51.992] SPACEBAR PRESSED - Moving UP
+[14:06:52.095] [POS] Fish Y: 547 | Box Y: 525 | Pred: 823 | Space: HELD
+[14:06:52.329] [POS] Fish Y: 453 | Box Y: 533 | Pred: 265 | Space: HELD
+[14:06:52.558] [POS] Fish Y: 474 | Box Y: 539 | Pred: 516 | Space: HELD
+[14:06:52.791] [POS] Fish Y: 474 | Box Y: 540 | Pred: 474 | Space: HELD
+[14:06:53.035] [POS] Fish Y: 474 | Box Y: 536 | Pred: 474 | Space: HELD
+[14:06:53.079] [14:06:53.079] SPACEBAR RELEASED - Falling
+[14:06:53.159] [14:06:53.159] SPACEBAR PRESSED - Moving UP
+[14:06:53.252] [POS] Fish Y: 453 | Box Y: 528 | Pred: 411 | Space: HELD
+[14:06:53.465] [POS] Fish Y: 453 | Box Y: 521 | Pred: 453 | Space: HELD
+[14:06:53.607] [14:06:53.607] SPACEBAR RELEASED - Falling
+[14:06:53.682] [POS] Fish Y: 474 | Box Y: 512 | Pred: 516 | Space: FREE
+[14:06:53.703] [14:06:53.703] SPACEBAR PRESSED - Moving UP
+[14:06:53.785] [14:06:53.785] SPACEBAR RELEASED - Falling
+[14:06:53.879] [14:06:53.879] SPACEBAR PRESSED - Moving UP
+[14:06:53.891] [POS] Fish Y: 474 | Box Y: 504 | Pred: 474 | Space: HELD
+[14:06:53.991] [14:06:53.991] SPACEBAR RELEASED - Falling
+[14:06:54.039] [14:06:54.039] SPACEBAR PRESSED - Moving UP
+[14:06:54.109] [POS] Fish Y: 474 | Box Y: 508 | Pred: 474 | Space: HELD
+[14:06:54.314] [POS] Fish Y: 493 | Box Y: 516 | Pred: 531 | Space: HELD
+[14:06:54.509] [POS] Fish Y: 487 | Box Y: 522 | Pred: 475 | Space: HELD
+[14:06:54.712] [POS] Fish Y: 482 | Box Y: 523 | Pred: 472 | Space: HELD
+[14:06:54.941] [POS] Fish Y: 482 | Box Y: 523 | Pred: 482 | Space: HELD
+[14:06:55.140] [POS] Fish Y: 479 | Box Y: 522 | Pred: 473 | Space: HELD
+[14:06:55.338] [POS] Fish Y: 473 | Box Y: 514 | Pred: 461 | Space: HELD
+[14:06:55.550] [POS] Fish Y: 468 | Box Y: 503 | Pred: 458 | Space: HELD
+[14:06:55.575] [14:06:55.575] SPACEBAR RELEASED - Falling
+[14:06:55.672] [14:06:55.672] SPACEBAR PRESSED - Moving UP
+[14:06:55.745] [POS] Fish Y: 462 | Box Y: 485 | Pred: 450 | Space: HELD
+[14:06:55.947] [POS] Fish Y: 456 | Box Y: 476 | Pred: 444 | Space: HELD
+[14:06:55.974] [14:06:55.974] SPACEBAR RELEASED - Falling
+[14:06:56.072] [14:06:56.072] SPACEBAR PRESSED - Moving UP
+[14:06:56.145] [POS] Fish Y: 474 | Box Y: 463 | Pred: 510 | Space: HELD
+[14:06:56.335] [POS] Fish Y: 443 | Box Y: 460 | Pred: 381 | Space: HELD
+[14:06:56.551] [POS] Fish Y: 437 | Box Y: 455 | Pred: 425 | Space: HELD
+[14:06:56.640] [14:06:56.640] SPACEBAR RELEASED - Falling
+[14:06:56.727] [14:06:56.727] SPACEBAR PRESSED - Moving UP
+[14:06:56.751] [POS] Fish Y: 453 | Box Y: 445 | Pred: 485 | Space: HELD
+[14:06:56.958] [POS] Fish Y: 474 | Box Y: 436 | Pred: 516 | Space: HELD
+[14:06:57.119] [14:06:57.119] SPACEBAR RELEASED - Falling
+[14:06:57.178] [POS] Fish Y: 474 | Box Y: 425 | Pred: 474 | Space: FREE
+[14:06:57.199] [14:06:57.199] SPACEBAR PRESSED - Moving UP
+[14:06:57.311] [14:06:57.311] SPACEBAR RELEASED - Falling
+[14:06:57.404] [POS] Fish Y: 453 | Box Y: 421 | Pred: 411 | Space: FREE
+[14:06:57.422] [14:06:57.422] SPACEBAR PRESSED - Moving UP
+[14:06:57.625] [POS] Fish Y: 453 | Box Y: 442 | Pred: 453 | Space: HELD
+[14:06:57.835] [POS] Fish Y: 447 | Box Y: 468 | Pred: 435 | Space: HELD
+[14:06:58.054] [POS] Fish Y: 453 | Box Y: 489 | Pred: 465 | Space: HELD
+[14:06:58.292] [POS] Fish Y: 458 | Box Y: 503 | Pred: 468 | Space: HELD
+[14:06:58.504] [POS] Fish Y: 463 | Box Y: 514 | Pred: 473 | Space: HELD
+[14:06:58.716] [POS] Fish Y: 468 | Box Y: 519 | Pred: 478 | Space: HELD
+[14:06:58.915] [POS] Fish Y: 474 | Box Y: 521 | Pred: 486 | Space: HELD
+[14:06:59.124] [POS] Fish Y: 480 | Box Y: 516 | Pred: 492 | Space: HELD
+[14:06:59.325] [POS] Fish Y: 485 | Box Y: 507 | Pred: 495 | Space: HELD
+[14:06:59.536] [POS] Fish Y: 453 | Box Y: 502 | Pred: 389 | Space: HELD
+[14:06:59.567] [14:06:59.567] SPACEBAR RELEASED - Falling
+[14:06:59.695] [14:06:59.695] SPACEBAR PRESSED - Moving UP
+[14:06:59.747] [POS] Fish Y: 710 | Box Y: 501 | Pred: 1224 | Space: HELD
+[14:06:59.951] [14:06:59.951] SPACEBAR RELEASED - Falling
+[14:06:59.964] [POS] Fish Y: 711 | Box Y: 500 | Pred: 713 | Space: FREE
+[14:07:00.055] [14:07:00.055] SPACEBAR PRESSED - Moving UP
+[14:07:00.176] [POS] Fish Y: 714 | Box Y: 494 | Pred: 720 | Space: HELD
+[14:07:00.223] [14:07:00.223] SPACEBAR RELEASED - Falling
+[14:07:00.383] [14:07:00.383] SPACEBAR PRESSED - Moving UP
+[14:07:00.390] [POS] Fish Y: 717 | Box Y: 497 | Pred: 723 | Space: HELD
+[14:07:00.602] [POS] Fish Y: 719 | Box Y: 375 | Pred: 723 | Space: HELD
+[14:07:00.814] [POS] Fish Y: 721 | Box Y: 527 | Pred: 725 | Space: HELD
+[14:07:01.047] [POS] Fish Y: 722 | Box Y: 539 | Pred: 724 | Space: HELD
+[14:07:01.267] [POS] Fish Y: 722 | Box Y: 546 | Pred: 722 | Space: HELD
+[14:07:01.391] [14:07:01.391] SPACEBAR RELEASED - Falling
+[14:07:01.471] [14:07:01.471] SPACEBAR PRESSED - Moving UP
+[14:07:01.499] [POS] Fish Y: 722 | Box Y: 548 | Pred: 722 | Space: HELD
+[14:07:01.724] [POS] Fish Y: 721 | Box Y: 551 | Pred: 719 | Space: HELD
+[14:07:01.935] [14:07:01.935] SPACEBAR RELEASED - Falling
+[14:07:01.954] [POS] Fish Y: 719 | Box Y: 555 | Pred: 715 | Space: FREE
+[14:07:02.049] [14:07:02.049] SPACEBAR PRESSED - Moving UP
+[14:07:02.192] [POS] Fish Y: 717 | Box Y: 556 | Pred: 713 | Space: HELD
+[14:07:02.437] [POS] Fish Y: 714 | Box Y: 564 | Pred: 708 | Space: HELD
+[14:07:02.658] [POS] Fish Y: 377 | Box Y: 569 | Pred: -297 | Space: HELD
+[14:07:02.687] [14:07:02.687] SPACEBAR RELEASED - Falling
+[14:07:02.831] [14:07:02.831] SPACEBAR PRESSED - Moving UP
+[14:07:02.874] [POS] Fish Y: 708 | Box Y: 569 | Pred: 1370 | Space: HELD
+[14:07:02.967] [14:07:02.967] SPACEBAR RELEASED - Falling
+[14:07:03.024] [14:07:03.024] SPACEBAR PRESSED - Moving UP
+[14:07:03.120] [14:07:03.120] SPACEBAR RELEASED - Falling
+[14:07:03.131] [POS] Fish Y: 403 | Box Y: 762 | Pred: -207 | Space: FREE
+[14:07:03.377] [POS] Fish Y: 702 | Box Y: 762 | Pred: 1300 | Space: FREE
+[14:07:03.619] [POS] Fish Y: 700 | Box Y: 762 | Pred: 696 | Space: FREE
+[14:07:03.838] [POS] Fish Y: 862 | Box Y: 762 | Pred: 1186 | Space: FREE
+[14:07:04.083] [POS] Fish Y: 697 | Box Y: 762 | Pred: 367 | Space: FREE
+[14:07:04.299] [POS] Fish Y: 696 | Box Y: 762 | Pred: 694 | Space: FREE
+[14:07:04.532] [POS] Fish Y: 479 | Box Y: 17 | Pred: 45 | Space: FREE
+[14:07:04.760] [POS] Fish Y: 471 | Box Y: 134 | Pred: 455 | Space: FREE
+[14:07:05.048] [POS] Fish Y: 467 | Box Y: 130 | Pred: 459 | Space: FREE
+[14:07:05.286] [POS] Fish Y: 467 | Box Y: 132 | Pred: 467 | Space: FREE
+[14:07:05.524] [POS] Fish Y: 467 | Box Y: 132 | Pred: 467 | Space: FREE
+[14:07:05.790] [POS] Fish Y: 467 | Box Y: 132 | Pred: 467 | Space: FREE
+[14:07:05.996] [POS] Fish Y: 467 | Box Y: 130 | Pred: 467 | Space: FREE
+[14:07:06.197] [POS] Fish Y: 467 | Box Y: 17 | Pred: 467 | Space: FREE
+[14:07:06.297] Stopped | Fish: 90 | Box: 90
